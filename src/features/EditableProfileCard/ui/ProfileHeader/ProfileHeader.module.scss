@@ -1,0 +1,15 @@
+.profile-header_redesigned {
+  padding: 16px;
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+    justify-content: start;
+  }
+}
+
+.gap {
+  gap: 20.5%;;
+}
+
+.margin {
+  margin: auto;
+}
