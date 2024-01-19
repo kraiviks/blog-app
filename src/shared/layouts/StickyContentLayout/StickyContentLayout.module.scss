@@ -1,0 +1,34 @@
+.sticky-content-layout {
+  display: grid;
+  grid-template-areas: 'left content right';
+  grid-template-columns: min-content 3fr 1fr;
+  gap: 16px;
+  height: 90vh;
+  overflow-y: auto;
+}
+
+.left {
+  grid-area: left;
+}
+
+.content {
+  grid-area: content;
+  justify-self: center;
+
+  width: 100%;
+  min-width: 300px;
+  max-width: 780px;
+}
+
+.left,
+.right {
+  position: sticky;
+  top: 32px;
+  height: fit-content;
+}
+
+.right {
+  grid-area: right;
+  min-width: 215px;
+  max-width: 268px;
+}
