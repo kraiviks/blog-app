@@ -18,7 +18,7 @@ npm run start:dev or npm run start:dev:vite - run server + frontend project in d
 - `npm run start:dev:vite` - Run frontend project on vite + backend
 - `npm run start:dev:server` - Run backend server
 - `npm run build:prod` - Build in prod mode
-- `build:prod:analyze` - Runs the webpack bundler in production mode and includes a step for bundle analysis, 
+- `npm run build:prod:analyze` - Runs the webpack bundler in production mode and includes a step for bundle analysis, 
 - `npm run build:dev` - Build in dev mode (non-minified)
 - `npm run build:dev:analyze` - Runs the webpack bundler in dev mode and includes a step for bundle analysis, 
 - `npm run lint:ts` - Lint check for ts files
