@@ -1,0 +1,83 @@
+{
+  "id": "14",
+  "title": "React for Beginners. Lesson 1",
+  "subtitle": "React",
+  "img": "https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png",
+  "createdAt": "01.009.2022",
+  "views": 120433,
+  "userId": "1",
+  "type": [
+    "IT"
+  ],
+  "blocks": [
+    {
+      "id": "1",
+      "type": "TEXT",
+      "title": "Introduction",
+      "paragraph": [
+        "JavaScript is a programming language!",
+        "According to some studies, by the way, it is the most popular. And certainly one of the easiest to enter IT.",
+        "In general, web development is a place, in my opinion, that is very friendly to beginners and provides a lot of opportunities. So, rejoice, dear young developers from all over the world who are now reading this article.",
+        "In many ways, the language is popular thanks to the development of the web. After all, it has monopolized the browser and is, with rare exceptions, the only language capable of <s>making animations and validating forms</s> doing almost any complex logic on the client (in the browser)."
+      ]
+    },
+    {
+      "id": "2",
+      "type": "TEXT",
+      "title": "Let's go (Hello world)",
+      "paragraph": [
+        "It is customary in the IT world to start learning something with a \"hello world\" application.",
+        "This is a pretty good practice. The most difficult thing in learning anything is to start, but starting with something super simple is not so difficult.",
+        "There is a basic way to check the code. Print a message to the console.",
+        "For this, JS has a console.log function. It has the following syntax:"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "CODE",
+      "code": "console.log('Hello World!');"
+    },
+    {
+      "id": "4",
+      "type": "IMAGE",
+      "src": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/1bf/1f6/3e6/1bf1f63e680625c26877bb2d20f9f651.png",
+      "title": "It should look something like this"
+    },
+    {
+      "id": "5",
+      "type": "TEXT",
+      "title": "From basic to simple",
+      "paragraph": [
+        "Next, I want to walk you through the basic syntax of the language and its main functions, which you can play with and get something similar to what you might have seen in computer science lessons."
+      ]
+    },
+    {
+      "id": "6",
+      "type": "TEXT",
+      "title": "1) Variables",
+      "paragraph": [
+        "In JS, working with data occurs mainly by manipulating “variables.” These are things that contain some kind of information. For example, we know that Petya’s name is Petya and we can put this information in a variable for further work with it:"
+      ]
+    },
+    {
+      "id": "7",
+      "type": "CODE",
+      "code": "const name = 'Petya';"
+    },
+    {
+      "id": "8",
+      "type": "IMAGE",
+      "src": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/eab/c11/475/eabc11475e6ba86042403a8d9bd29b87.jpg",
+      "title": "Task Testing"
+    }
+  ],
+  "user": {
+    "id": "1",
+    "username": "admin",
+    "password": "123",
+    "roles": [
+      "admin"
+    ],
+    "avatar": "https://pic.rutubelist.ru/user/3b/27/3b2758ad5492a76b578f7ee072e4e894.jpg"
+  }
+}

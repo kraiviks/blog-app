@@ -1,0 +1,19 @@
+{
+  "profilePage": "Сторінка профілю",
+  "yourName": "Ім'я",
+  "yourLastname": "Прізвище",
+  "profile_title_error": "Виникла помилка при завантаженні профілю",
+  "profile_text_error": "Спробуйте оновити сторінку",
+  "yourAge": "Вік",
+  "yourCity": "Місто",
+  "yourUsername": "Ім'я користувача",
+  "avatar_path": "Посилання на аватар",
+  "incorrect_data": "Необхідно вказати ім'я і прізвище",
+  "incorrect_age": "Невірний вік",
+  "no_data": "Дані не вказані",
+  "server_error": "Помилка сервера при збереженні",
+  "rate_the_profile": "Оцініть профіль",
+  "input_rate_profile": "Напишіть відгук про профіль",
+  "Profile not found": "Профіль не знайдений",
+  "rate_load_error": "Помилка при завантаженні рейтингу"
+}

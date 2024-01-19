@@ -1,0 +1,19 @@
+{
+  "articles": "Статті",
+  "Article not found": "Стаття не знайдена",
+  "an error occurred while loading the article": "Виникла помилка під час завантаження статті",
+  "read more": "читати далі...",
+  "back to list": "назад до списку",
+  "article list error": "Виникла помилка під час завантаження списку статей, будь ласка, спробуйте пізніше.",
+  "articles not found": "Статті не знайдені",
+  "all": "Всі",
+  "it": "ІТ",
+  "science": "Наука",
+  "economics": "Економіка",
+  "rate_the_article": "Оцініть статтю",
+  "input_rate": "Напишіть відгук про статтю",
+  "rate_load_error": "Помилка при завантаженні рейтингу",
+  "Welcome to article page": "Ласкаво просимо на сторінку статей",
+  "articleGreetingMessage": "Тут можна переглядати та шукати статті на різні теми",
+  "Here will be the evaluation of the article": "Тут буде оцінка статті"
+}
