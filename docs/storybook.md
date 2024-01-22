@@ -1,16 +1,16 @@
 ## Storybook
 
-У проекті для кожного компонента описуються сценарії використання (сторі-кейси). Запити на сервер імітуються за допомогою storybook-addon-mock.
+The project describes use cases for each component. Requests to the server are simulated using storybook-addon-mock.
 
-Файл із сценаріями створюється поруч із компонентом з розширенням .stories.tsx
+The file with the scripts is created next to the component with the extension .stories.tsx
 
-Запустити Storybook можна за допомогою команди:
+You can run Storybook using the command:
 
-- `npm run storybook`
+- `npm run storybook`.
 
-Докладніше про [Storybook](https://storybook.js.org/)
+Read more about [Storybook](https://storybook.js.org/)
 
-Приклад:
+Example:
 
 ```typescript jsx
 import React from 'react';
